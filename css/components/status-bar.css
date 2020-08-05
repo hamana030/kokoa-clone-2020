@@ -2,6 +2,11 @@
   display: flex;
   justify-content: center;
   padding: 5px 3px;
+  background-color: white;
+  box-sizing: border-box;
+  position: sticky;
+  top: 0;
+  width: 100%;
 }
 .status-bar__column {
   width: 33%;
